@@ -1,4 +1,4 @@
-# SystemUI Tuner Add-On
+5fb952ba89a718e46b56850dabe864c2c6d1762a# SystemUI Tuner Add-On
 This app is an add-on app for [SystemUI Tuner](https://github.com/zacharee/Tweaker) that can be used to read and write restricted settings that SystemUI Tuner can't normally interact with.
 
 With the release of Android 6, Google greatly restricted which values apps could change in Settings.System. However, for backwards-compatibility, these restrictions don't apply to apps that still target Android 5.1 and earlier.
